@@ -1,0 +1,27 @@
+﻿id,type,sub_type,start_date,end_date,listing_type,tom,building_age,total_floor_count,floor_no,room_count,size,address,furnished,heating_type,price,price_currency,city,district_grouped,predicted_price,error,abs_error,squared_error,pct_error,Вручную,Sklearn,ФИО,Группа
+49,Konut,Kooperatif,11/10/18,12/10/18,1,30,0,10,Müstakil,1+0,1.00,İzmir/Aliağa/Yenişakran,,Fancoil,300000.00,TRY,İzmir,Aliağa,4480223,4180223.00,4180223.00,17474264329729.00,1393.41,,,Руднев И. С.,23П-2
+506,Konut,Çiftlik Evi,10/25/18,2/23/19,1,121,2,2,,2+2,250.00,İzmir/Foça/Yeniköy,,Yok,1600000.00,TRY,İzmir,Foça,19255227,17655227.00,17655227.00,311707040421529.00,1103.45,,,Руднев И. С.,23П-2
+2,Konut,Daire,2/13/19,,1,14,0,20 ve üzeri,20 ve üzeri,1+0,43.00,İstanbul/Kartal/Kordonboyu,,Fancoil,490000.00,TRY,İstanbul,Kartal,6860688,6370688.00,6370688.00,40585665593344.00,1300.14,,,Руднев И. С.,23П-2
+528,Konut,Prefabrik Ev,11/16/18,1/21/19,1,66,,1,,3+1,122.00,Tekirdağ/Çerkezköy/Kızılpınar,,Yok,103600.00,TRY,Tekirdağ,Çerkezköy,18799788,18696188.00,18696188.00,349547445731344.00,18046.51,,,Руднев И. С.,23П-2
+109,Konut,Kooperatif,11/10/18,1/9/19,1,60,0,10,Müstakil,1+0,1.00,İzmir/Aliağa/Yenişakran,,Fancoil,300000.00,TRY,İzmir,Aliağa,4480223,4180223.00,4180223.00,17474264329729.00,1393.41,,,Руднев И. С.,23П-2
+100,Konut,Yazlık,1/12/19,,1,46,1,10,9,3+1,150.00,Mersin/Erdemli/Kargıpınarı,,Fancoil,500000.00,TRY,Mersin,Erdemli,19033205,18533205.00,18533205.00,343479687572025.00,3706.64,,,Руднев И. С.,23П-2
+320,Konut,Yazlık,2/12/19,2/12/19,1,0,0,2,Müstakil,4+1,134.00,Balıkesir/Burhaniye/Pelitköy,,Fancoil,1000000.00,TRY,Balıkesir,Burhaniye,19022279,18022279.00,18022279.00,324802540353841.00,1802.23,,,Руднев И. С.,23П-2
+3,Konut,Daire,10/9/18,11/8/18,1,30,0,1,Yüksek Giriş,2+1,,Tekirdağ/Çorlu/Reşadiye,,Fancoil,155000.00,TRY,Tekirdağ,Çorlu,15625614,15470614.00,15470614.00,239339897536996.00,9981.04,,,Руднев И. С.,23П-2
+7810,Konut,Loft,12/30/18,1/29/19,1,30,,4,,4+1,145.00,İzmir/Konak/Akın Simav,,Kalorifer (Doğalgaz),650000.00,TRY,İzmir,Konak,19033205,18383205.00,18383205.00,337942226072025.00,2828.19,,,Руднев И. С.,23П-2
+11,Konut,Müstakil Ev,11/13/18,11/26/18,1,13,0,1,Bahçe katı,3+1,125.00,Muğla/Bodrum/Ortakentyahşi,,Fancoil,2450000.00,TRY,Muğla,Bodrum,19080993,16630993.00,16630993.00,276589928166049.00,678.82,,,Руднев И. С.,23П-2
+1,Konut,Rezidans,12/10/18,1/9/19,2,30,0,20 ve üzeri,2,2+1,90.00,İstanbul/Kartal/Kordonboyu,,Fancoil,3500.00,TRY,İstanbul,Kartal,13979819,13976319.00,13976319.00,195337492789761.00,399323.40,,,Руднев И. С.,23П-2
+758,Konut,Çiftlik Evi,2/17/19,,2,10,2,1,,1+0,120.00,Malatya/Akçadağ/Aksüt,,Yok,19000.00,TRY,Malatya,Akçadağ,17710925,17691925.00,17691925.00,313004210205625.00,93115.39,,,Руднев И. С.,23П-2
+496,Konut,Komple Bina,11/21/18,,2,98,0,4,,+,905.00,Kocaeli/İzmit/Alikahya Fatih,,Yok,12500.00,TRY,Kocaeli,İzmit,19033205,19020705.00,19020705.00,361787218697025.00,152165.64,,,Руднев И. С.,23П-2
+7,Konut,Daire,1/4/19,,2,54,0,20 ve üzeri,14,3+1,160.00,İstanbul/Kartal/Kordonboyu,,Fancoil,3750.00,TRY,İstanbul,Kartal,19033205,19029455.00,19029455.00,362120157597025.00,507452.13,,,Руднев И. С.,23П-2
+1942,Konut,Yalı Dairesi,11/27/18,,2,92,,2,1,3+1,,Muğla/Marmaris/Siteler,,Yok,750.00,TRY,Muğla,Marmaris,15625614,15624864.00,15624864.00,244136375018496.00,2083315.20,,,Руднев И. С.,23П-2
+58,Konut,Villa,10/2/18,11/1/18,2,30,6-10 arası,2,,4+1,200.00,İzmir/Urla/Çamlıçay,,Fancoil,3600.00,TRY,İzmir,Urla,19033205,19029605.00,19029605.00,362125866456025.00,528600.14,,,Руднев И. С.,23П-2
+91731,Konut,Loft,9/10/18,2/9/19,2,152,,9,,2+1,,Adana/Seyhan/Gürselpaşa,,Kombi (Doğalgaz),16000.00,TRY,Adana,Seyhan,15625614,15609614.00,15609614.00,243660049228996.00,97560.09,,,Руднев И. С.,23П-2
+680,Konut,Yazlık,11/15/18,,2,104,11-15 arası,2,Komple,2+1,85.00,Aydın/Kuşadası/Kadınlar Denizi,,Yok,1200.00,TRY,Aydın,Kuşadası,13833608,13832408.00,13832408.00,191335511078464.00,1152700.67,,,Руднев И. С.,23П-2
+16,Konut,Villa,10/2/18,1/4/19,2,94,6-10 arası,2,,4+1,200.00,İzmir/Urla/Çamlıçay,,Fancoil,3600.00,TRY,İzmir,Urla,19033205,19029605.00,19029605.00,362125866456025.00,528600.14,,,Руднев И. С.,23П-2
+18,Konut,Daire,12/10/18,1/9/19,2,30,0,20 ve üzeri,20 ve üzeri,2+1,84.00,İstanbul/Kartal/Kordonboyu,,Fancoil,4200.00,TRY,İstanbul,Kartal,13143489,13139289.00,13139289.00,172640915425521.00,312840.21,,,Руднев И. С.,23П-2
+
+Метрика,Вручную,Sklearn
+MAE,15205331.70,15205331.70
+RMSE,15917312.31,15917312.31
+R2,-649.48,-649.48
+MAPE_pct,294895.34,

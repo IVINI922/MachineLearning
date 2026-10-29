@@ -1,0 +1,26 @@
+{
+  "model": "HistGradientBoosting",
+  "target": "price_try (TRY), внутри модели log1p",
+  "random_state": 42,
+  "n_train_objects": 286849,
+  "trained_at": "2026-09-30",
+  "holdout_test_metrics": {
+    "MAE_log": 0.2284,
+    "MAPE_pct": 24.8,
+    "R2_try": 0.732
+  },
+  "best_params": {},
+  "input_columns": [
+    "sub_type",
+    "start_date",
+    "listing_type",
+    "building_age",
+    "total_floor_count",
+    "floor_no",
+    "room_count",
+    "size",
+    "address",
+    "heating_type"
+  ],
+  "versions": {}
+}
